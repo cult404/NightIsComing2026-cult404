@@ -55,6 +55,7 @@
     {"name":"gif_snow","order":4,"path":"sprites/gif_snow/gif_snow.yy",},
     {"name":"spr_backroundmenu","order":2,"path":"sprites/spr_backroundmenu/spr_backroundmenu.yy",},
     {"name":"spr_balcony","order":14,"path":"sprites/spr_balcony/spr_balcony.yy",},
+    {"name":"spr_bed","order":19,"path":"sprites/spr_bed/spr_bed.yy",},
     {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"spr_emptysprite","order":9,"path":"sprites/spr_emptysprite/spr_emptysprite.yy",},
     {"name":"spr_fade","order":11,"path":"sprites/spr_fade/spr_fade.yy",},

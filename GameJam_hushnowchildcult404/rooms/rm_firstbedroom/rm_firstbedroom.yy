@@ -34,7 +34,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":15,"SerialiseWidth":20,"TileCompressedData":[
           -4,0,1,41,-10,39,1,52,-8,0,1,41,-10,39,1,52,-8,0,1,41,-10,39,1,52,-8,0,1,61,-10,50,1,62,-8,0,1,40,-10,
-          27,1,51,-8,0,3,40,27,26,-6,27,3,26,27,51,-8,0,1,25,-7,27,4,26,27,27,51,-8,0,3,25,27,26,-8,27,1,51,-8,
+          27,1,51,-8,0,3,40,27,26,-6,27,3,26,27,51,-8,0,1,40,-7,27,4,26,27,27,51,-8,0,3,40,27,26,-8,27,1,51,-8,
           0,1,40,-5,27,1,26,-4,27,1,51,-8,0,1,40,-10,27,1,51,-8,0,1,40,-3,27,1,26,-6,27,1,51,-8,0,1,40,-6,27,1,
           26,-3,27,1,51,-8,0,1,40,-8,27,3,26,27,51,-8,0,1,40,-3,27,1,26,-6,27,1,51,-8,0,2,40,26,-7,27,3,26,27,
           51,-4,0,

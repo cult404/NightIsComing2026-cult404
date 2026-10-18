@@ -79,6 +79,7 @@
     {"id":{"name":"gif_snow","path":"sprites/gif_snow/gif_snow.yy",},},
     {"id":{"name":"spr_backroundmenu","path":"sprites/spr_backroundmenu/spr_backroundmenu.yy",},},
     {"id":{"name":"spr_balcony","path":"sprites/spr_balcony/spr_balcony.yy",},},
+    {"id":{"name":"spr_bed","path":"sprites/spr_bed/spr_bed.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_emptysprite","path":"sprites/spr_emptysprite/spr_emptysprite.yy",},},
     {"id":{"name":"spr_escape","path":"sprites/spr_escape/spr_escape.yy",},},
