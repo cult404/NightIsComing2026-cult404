@@ -1,0 +1,1 @@
+global.musicPlaying = false;

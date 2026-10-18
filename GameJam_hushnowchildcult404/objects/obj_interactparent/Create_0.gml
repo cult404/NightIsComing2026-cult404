@@ -1,0 +1,1 @@
+isInteracted = false;
