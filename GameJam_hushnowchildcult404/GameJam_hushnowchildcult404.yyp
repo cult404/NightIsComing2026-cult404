@@ -93,6 +93,7 @@
     {"id":{"name":"spr_josephnightRidle","path":"sprites/spr_josephnightRidle/spr_josephnightRidle.yy",},},
     {"id":{"name":"spr_josephnightRmove","path":"sprites/spr_josephnightRmove/spr_josephnightRmove.yy",},},
     {"id":{"name":"spr_rooUHck","path":"sprites/spr_rooUHck/spr_rooUHck.yy",},},
+    {"id":{"name":"spr_rug","path":"sprites/spr_rug/spr_rug.yy",},},
     {"id":{"name":"spr_speakbox","path":"sprites/spr_speakbox/spr_speakbox.yy",},},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"spr_tileset1","path":"sprites/spr_tileset1/spr_tileset1.yy",},},
