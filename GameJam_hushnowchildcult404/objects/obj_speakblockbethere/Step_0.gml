@@ -15,4 +15,5 @@ global.spokendocks = true;
 }
 if !place_meeting(x , y , obj_player1) { speaking = false;}
 
-if global.spokendocks == true {instance_destroy(obj_wall_1);}
+if global.spokendocks == true {instance_destroy(obj_wall_1);
+instance_destroy(obj_interestsparkle);}
