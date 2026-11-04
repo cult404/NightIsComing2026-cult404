@@ -13,12 +13,23 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"f50e389e-082d-45e6-91c0-3f2547bfbc55","name":"f50e389e-082d-45e6-91c0-3f2547bfbc55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b358d5b6-d65d-4bd6-ae8a-9746ebea8328","name":"b358d5b6-d65d-4bd6-ae8a-9746ebea8328","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fcdc49b2-aa02-4b2f-8b8f-cf994c3ec878","name":"fcdc49b2-aa02-4b2f-8b8f-cf994c3ec878","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5e20f74c-b089-490d-b106-959458763f04","name":"5e20f74c-b089-490d-b106-959458763f04","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fe56f65b-efcd-4607-9526-0a0c3e5e5809","name":"fe56f65b-efcd-4607-9526-0a0c3e5e5809","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d6dd9430-8c20-4afe-83d7-8215b988aaec","name":"d6dd9430-8c20-4afe-83d7-8215b988aaec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6cf5befa-ead7-4a62-b898-1164fa72898c","name":"6cf5befa-ead7-4a62-b898-1164fa72898c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"12ae366a-f7a1-495f-afaa-4f8f2a0bdca0","name":"12ae366a-f7a1-495f-afaa-4f8f2a0bdca0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ff0456dd-e8ee-4c04-be6c-33bdec9164e0","name":"ff0456dd-e8ee-4c04-be6c-33bdec9164e0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"84bf343c-c3f7-4d25-92a1-d25f46794cd0","name":"84bf343c-c3f7-4d25-92a1-d25f46794cd0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c49b968f-52cf-43e7-ac41-e03e98362cf1","name":"c49b968f-52cf-43e7-ac41-e03e98362cf1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":68,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"0b8381f3-7523-4f15-bd6b-76e9fb751379","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"0b8381f3-7523-4f15-bd6b-76e9fb751379","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"34b51faa-8729-4d03-85dc-b58e4bf292d4","blendMode":0,"displayName":"default","isLocked":false,"name":"34b51faa-8729-4d03-85dc-b58e4bf292d4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_bedwithkid",
@@ -49,7 +60,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":11.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +70,7 @@
     },
     "name":"spr_bedwithkid",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":3.754,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -71,6 +82,36 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f50e389e-082d-45e6-91c0-3f2547bfbc55","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"295609f2-fee2-45e7-98db-6ac4abd0fff9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b358d5b6-d65d-4bd6-ae8a-9746ebea8328","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7a93d155-6278-482d-ac14-b10b837baad5","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fcdc49b2-aa02-4b2f-8b8f-cf994c3ec878","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6dd9cba4-843f-4d45-a3d4-8e17cbd09ee0","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5e20f74c-b089-490d-b106-959458763f04","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"abce0ecd-874d-4546-bdad-fdc2e7215048","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe56f65b-efcd-4607-9526-0a0c3e5e5809","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e7f9d497-e16c-4413-8de0-d80755f1dfa3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6dd9430-8c20-4afe-83d7-8215b988aaec","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"614efccc-044c-4f3e-8f55-8fbff5612640","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6cf5befa-ead7-4a62-b898-1164fa72898c","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e0333e36-ac23-4bb4-84e4-e70067145501","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12ae366a-f7a1-495f-afaa-4f8f2a0bdca0","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"faf156da-760a-4d81-b3f6-26e9f29c1299","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff0456dd-e8ee-4c04-be6c-33bdec9164e0","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"47a3e918-2fc6-4e5a-9606-fdf8e0bd21fd","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"84bf343c-c3f7-4d25-92a1-d25f46794cd0","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c616a48f-02f5-4113-8058-0a0e1ff63669","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c49b968f-52cf-43e7-ac41-e03e98362cf1","path":"sprites/spr_bedwithkid/spr_bedwithkid.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f1fb911f-055c-4937-9c73-f9747ecf8cef","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

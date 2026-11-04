@@ -51,9 +51,9 @@ y += ySpeed;
 
 //shift speed loop and system
 
-shift = keyboard_check(ord("X"));
+shift = keyboard_check(vk_lshift);
 if shift = true {
-	moveSpeed = 3;
+	moveSpeed = 4;
 } else {
 moveSpeed = 1;
 }
