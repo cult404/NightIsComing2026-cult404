@@ -1,5 +1,18 @@
 //this is player data like speed and movement
+//door stuff
 
+if (!variable_global_exists("warping"))
+{
+    global.warping = false;
+    global.destination_door = "";
+}
+
+//per stuff
+
+if (!variable_global_exists("spokendocks"))
+{
+    global.spokendocks = false;
+}
 //moving
 
 moveDir = 0;

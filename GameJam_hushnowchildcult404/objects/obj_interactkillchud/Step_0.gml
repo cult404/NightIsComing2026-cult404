@@ -3,7 +3,7 @@ if place_meeting(x, y, obj_player1) and keyboard_check_pressed(vk_enter) and isI
 	isInteracted = true;
 	audio_play_sound(soundVar, 1, false);
 	
-	room_goto()
+	//room_goto()
 }
 
 if !place_meeting(x, y, obj_player1) 
