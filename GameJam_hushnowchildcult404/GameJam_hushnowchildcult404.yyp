@@ -53,6 +53,7 @@
     {"id":{"name":"obj_interactparent","path":"objects/obj_interactparent/obj_interactparent.yy",},},
     {"id":{"name":"obj_interacttest","path":"objects/obj_interacttest/obj_interacttest.yy",},},
     {"id":{"name":"obj_interestsparkle","path":"objects/obj_interestsparkle/obj_interestsparkle.yy",},},
+    {"id":{"name":"obj_makesomethinghappen","path":"objects/obj_makesomethinghappen/obj_makesomethinghappen.yy",},},
     {"id":{"name":"obj_manager_DONOTDELETE","path":"objects/obj_manager_DONOTDELETE/obj_manager_DONOTDELETE.yy",},},
     {"id":{"name":"obj_menumusicplayer","path":"objects/obj_menumusicplayer/obj_menumusicplayer.yy",},},
     {"id":{"name":"obj_menutext1","path":"objects/obj_menutext1/obj_menutext1.yy",},},

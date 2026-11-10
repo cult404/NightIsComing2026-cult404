@@ -122,9 +122,6 @@ lastInput = input;
 
 
 
-
-
-
 //ancient evil code i keep to laugh at
 
 

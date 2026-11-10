@@ -4,3 +4,6 @@ obj_player1.y = y;
 
 obj_player1.startX = x;
 obj_player1.startY = y;
+
+
+//NOTE: DONT USE THIS IT WILL RUIN YOUR TELEPORT DOORS
