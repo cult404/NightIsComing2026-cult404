@@ -5,6 +5,8 @@ if place_meeting(x, y, obj_player1) and keyboard_check_pressed(vk_enter) and isI
 	audio_stop_all();
 	audio_play_sound(soundVar, 1, false);
 	
+	//room_goto()
+}
 
 }
 if isInteracted = true {

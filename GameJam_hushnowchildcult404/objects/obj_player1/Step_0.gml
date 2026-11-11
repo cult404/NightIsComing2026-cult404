@@ -35,7 +35,7 @@ moveDir = downMove - upMove; //this funni maths will move us up and down
 
 ySpeed = moveDir * moveSpeed;
 // y collison
-var _subPixel = .5
+
 if place_meeting(x, y + ySpeed, obj_vertwall)
 {
 	var _pixelCheck = _subPixel * sign(ySpeed);
@@ -109,9 +109,6 @@ if input != lastInput //sprite animations stuff
 	}
 lastInput = input;
 }
-
-
-
 
 
 

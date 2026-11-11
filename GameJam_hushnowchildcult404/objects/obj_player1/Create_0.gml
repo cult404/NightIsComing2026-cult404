@@ -1,5 +1,21 @@
 //this is player data like speed and movement
+//This is for the door warping 
+if (!variable_global_exists("warping"))
+{
+    global.warping = false;
+}
 
+if (!variable_global_exists("destination_door"))
+{
+    global.destination_door = "";
+}
+
+//Don't delete this section handles the player not getting blocked
+
+if (!variable_global_exists("spokendocks"))
+{
+    global.spokendocks = false;
+}
 //moving
 
 moveDir = 0;
@@ -22,4 +38,6 @@ lastInput = 0;
 input = 0;
 
 previousDir = 0;
+
+persistent = true;
 
